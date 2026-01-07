@@ -201,9 +201,9 @@ fun_fact: I love making free tools that should be paid
 
 <div align="center">
 
-### Random Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+> *"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them."*
+>
+> **— Steve Jobs**
 
 </div>
 
