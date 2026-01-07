@@ -17,7 +17,7 @@
 </p>
 
 <!-- Quick Bio Card -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=rainaku&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox"/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=rainaku&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox"/>
 
 </div>
 
@@ -50,17 +50,17 @@ fun_fact: I love making free tools that should be paid
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dart,js,html,css,py&theme=light&perline=6" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=cs,dart,js,html,css,py&theme=dark&perline=6" alt="Languages"/>
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,nodejs,vscode,git,github,figma,firebase&theme=light&perline=8" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,nodejs,vscode,git,github,figma,firebase&theme=dark&perline=8" alt="Tools"/>
 </p>
 
 ### Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" alt="OS"/>
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="OS"/>
 </p>
 
 </div>
@@ -73,21 +73,21 @@ fun_fact: I love making free tools that should be paid
   
 <p>
   <a href="https://github.com/rainaku">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=00ACC1&icon_color=4DD0E1&text_color=37474F&count_private=true&include_all_commits=true&ring_color=00BCD4" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9&count_private=true&include_all_commits=true&ring_color=00ACC1" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/rainaku">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=00ACC1&text_color=37474F&langs_count=8" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/rainaku">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainaku&theme=default&hide_border=true&background=FFFFFF&stroke=B2EBF2&ring=00BCD4&fire=4DD0E1&currStreakLabel=00ACC1&sideLabels=00ACC1&currStreakNum=37474F&sideNums=37474F&dates=90A4AE" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=rainaku&theme=tokyonight&hide_border=true&background=0D1117&stroke=4DD0E1&ring=00BCD4&fire=00ACC1&currStreakLabel=4DD0E1&sideLabels=4DD0E1&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
   </a>
 </p>
 
 <a href="https://github.com/rainaku">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rainaku&bg_color=FFFFFF&color=00ACC1&line=4DD0E1&point=006064&area=true&area_color=E0F7FA&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rainaku&bg_color=0D1117&color=4DD0E1&line=00BCD4&point=FFFFFF&area=true&area_color=00ACC1&hide_border=true" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -103,7 +103,7 @@ fun_fact: I love making free tools that should be paid
     <h3 align="center">Scroll-V</h3>
     <p align="center">
       <a href="https://github.com/rainaku/Scroll-V">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Scroll-V&theme=default&hide_border=true&bg_color=FFFFFF&title_color=00ACC1&icon_color=4DD0E1" alt="Scroll-V"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Scroll-V&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9" alt="Scroll-V"/>
       </a>
     </p>
     <p align="center">
@@ -116,7 +116,7 @@ fun_fact: I love making free tools that should be paid
     <h3 align="center">FreeMyRam</h3>
     <p align="center">
       <a href="https://github.com/rainaku/FreeMyRam">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=FreeMyRam&theme=default&hide_border=true&bg_color=FFFFFF&title_color=00ACC1&icon_color=4DD0E1" alt="FreeMyRam"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=FreeMyRam&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9" alt="FreeMyRam"/>
       </a>
     </p>
     <p align="center">
@@ -131,7 +131,7 @@ fun_fact: I love making free tools that should be paid
     <h3 align="center">YouTube Video Stretcher</h3>
     <p align="center">
       <a href="https://github.com/rainaku/YouTube-Video-Stretcher">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=YouTube-Video-Stretcher&theme=default&hide_border=true&bg_color=FFFFFF&title_color=00ACC1&icon_color=4DD0E1" alt="YouTube-Video-Stretcher"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=YouTube-Video-Stretcher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9" alt="YouTube-Video-Stretcher"/>
       </a>
     </p>
     <p align="center">
@@ -144,7 +144,7 @@ fun_fact: I love making free tools that should be paid
     <h3 align="center">YouTube Premium Logo</h3>
     <p align="center">
       <a href="https://github.com/rainaku/Youtube-Premium-Logo-Free">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Youtube-Premium-Logo-Free&theme=default&hide_border=true&bg_color=FFFFFF&title_color=00ACC1&icon_color=4DD0E1" alt="Youtube-Premium-Logo-Free"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Youtube-Premium-Logo-Free&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4DD0E1&icon_color=00BCD4&text_color=C9D1D9" alt="Youtube-Premium-Logo-Free"/>
       </a>
     </p>
     <p align="center">
@@ -193,7 +193,7 @@ fun_fact: I love making free tools that should be paid
 
 ### Random Developer Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
 
