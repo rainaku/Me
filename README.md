@@ -1,260 +1,228 @@
 <div align="center">
 
-<!-- Header Banner with Animated Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=200&section=header&text=rain&fontColor=ffffff&fontSize=80&fontAlignY=35&animation=fadeIn&desc=✨%20Turning%20ideas%20into%20reality%20✨&descAlignY=55&descSize=18"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              GLORY TO MANKIND                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%8C%A7%EF%B8%8F+Hello%2C+I'm+Rain;%F0%9F%92%BB+Developer+from+Vietnam;%F0%9F%9A%80+Building+cool+stuff" alt="Typing SVG" />
+<!-- Banner Image -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=1&section=header"/>
+
+<br>
+
+<!-- Profile Picture with Border -->
+<a href="https://rainaku.id.vn">
+  <img src="https://github.com/rainaku.png" width="150" height="150" style="border-radius: 50%; border: 2px solid rgba(255,255,255,0.1);"/>
 </a>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rainaku&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://rainaku.id.vn">
-    <img src="https://img.shields.io/badge/Portfolio-rainaku.id.vn-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
+<br><br>
 
-<!-- Quick Bio Card -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=rainaku&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox"/>
+<!-- Name with Elegant Typography -->
+# ✧ 𝒓𝒂𝒊𝒏 ✧
+
+<samp>
+  
+*「 Hoặc gọi mình là Jin, nếu bạn thích. 」*
+
+</samp>
+
+<br>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Tr%C3%A1i+tim+bi%E1%BA%BFt+%C6%A1n+bi%E1%BA%BFn+c%C3%A1t+s%E1%BB%8Fi+th%C3%A0nh+v%C3%A0ng.;Glory+to+mankind." alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Location & Time -->
+<sub>
+  <img src="https://img.shields.io/badge/📍-Vietnam-0d1117?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🕐-UTC+07:00-0d1117?style=flat-square&labelColor=0d1117"/>
+</sub>
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             SOCIAL LINKS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- Glass-style Social Links -->
+<a href="https://rainaku.id.vn">
+  <img src="https://img.shields.io/badge/Portfolio-rainaku.id.vn-161b22?style=for-the-badge&logo=googlechrome&logoColor=8b949e&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/rain.107/">
+  <img src="https://img.shields.io/badge/Facebook-rain.107-161b22?style=for-the-badge&logo=facebook&logoColor=8b949e&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/rainaku">
+  <img src="https://img.shields.io/badge/GitHub-rainaku-161b22?style=for-the-badge&logo=github&logoColor=8b949e&labelColor=0d1117"/>
+</a>
+
+<br><br>
+
+<!-- Horizontal Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                ABOUT                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### ❄️ &nbsp; About Me
 
 </div>
 
----
-
-<!-- About Me Section -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <span> About Me</span>
-</h2>
-
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding gif"/>
+<br>
 
 ```yaml
-name: Rain
+name: Rain / Jin
 location: Vietnam 🇻🇳
-bio: "I'm dumb at coding (literally)" 
-current_focus: Building utility apps that make life easier
+website: rainaku.id.vn
+
+currently:
+  - Building utility apps that make life easier
+  - Learning new technologies everyday
+  - Creating free tools that should probably be paid
+
 interests:
-  - System Optimization Tools
-  - Browser Extensions
-  - Smooth UX/UI
+  - System Optimization
+  - Browser Extensions  
+  - Clean UI/UX Design
   - Anime & Gaming
-fun_fact: I love making free tools that should be paid 💜
+
+quote: "Con người trỗi dậy và suy tàn trong giấc mơ của chính họ."
 ```
 
-<br clear="right"/>
-
----
-
-<!-- Tech Stack -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  <span> Tech Stack</span>
-</h2>
+<br>
 
 <div align="center">
 
-<!-- Primary Languages -->
-<h3>💻 Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dart,js,html,css,py&theme=dark&perline=6" alt="Languages"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              TECH STACK                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### 🛠️ &nbsp; Tech Stack
+
+<br>
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=8b949e"/>
+
+<br><br>
 
 <!-- Frameworks & Tools -->
-<h3>🛠️ Frameworks & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,nodejs,vscode,git,github,figma,firebase&theme=dark&perline=8" alt="Tools"/>
-</p>
+<img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/WPF-0d1117?style=for-the-badge&logo=windows&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=8b949e"/>
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=8b949e"/>
 
-<!-- OS -->
-<h3>🖥️ Operating Systems</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="OS"/>
-</p>
+<br><br>
 
-</div>
+<!-- Horizontal Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<br>
 
-<!-- GitHub Stats Section -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-  <span> GitHub Analytics</span>
-</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            GITHUB STATS                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  
-<!-- GitHub Stats Cards -->
-<p>
-  <a href="https://github.com/rainaku">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/rainaku">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
+### 📊 &nbsp; GitHub Analytics
+
+<br>
+
+<!-- Stats Cards with Dark Theme -->
+<a href="https://github.com/rainaku">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rainaku&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e&text_color=6e7681&ring_color=8b949e" alt="GitHub Stats"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rainaku">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaku&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=6e7681" alt="Top Languages"/>
+</a>
+
+<br><br>
 
 <!-- GitHub Streak -->
-<p>
-  <a href="https://github.com/rainaku">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainaku&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=EC4899&fire=EC4899&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-  </a>
-</p>
+<a href="https://github.com/rainaku">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainaku&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=6e7681&currStreakNum=8b949e&sideNums=6e7681&dates=6e7681" alt="GitHub Streak"/>
+</a>
+
+<br><br>
 
 <!-- Activity Graph -->
 <a href="https://github.com/rainaku">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rainaku&bg_color=0D1117&color=A78BFA&line=EC4899&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rainaku&bg_color=0d1117&color=8b949e&line=8b949e&point=ffffff&area=true&area_color=21262d&hide_border=true" alt="Activity Graph"/>
 </a>
 
-</div>
+<br><br>
 
----
+<!-- Horizontal Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- Featured Projects -->
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
-  <span> Featured Projects</span>
-</h2>
+<br>
 
-<div align="center">
-<table>
-<tr>
-  <td width="50%">
-    <h3 align="center">🖱️ Scroll-V</h3>
-    <p align="center">
-      <a href="https://github.com/rainaku/Scroll-V">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Scroll-V&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899" alt="Scroll-V"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WPF-0C54C2?style=flat-square&logo=windows&logoColor=white"/>
-    </p>
-    <p align="center"><em>Extreme smooth scrolling experience, totally free!</em></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">🧹 FreeMyRam</h3>
-    <p align="center">
-      <a href="https://github.com/rainaku/FreeMyRam">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=FreeMyRam&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899" alt="FreeMyRam"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-    </p>
-    <p align="center"><em>Flush all of your RAM cache instantly!</em></p>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <h3 align="center">📺 YouTube Video Stretcher</h3>
-    <p align="center">
-      <a href="https://github.com/rainaku/YouTube-Video-Stretcher">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=YouTube-Video-Stretcher&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899" alt="YouTube-Video-Stretcher"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
-    </p>
-    <p align="center"><em>Stretch video ratio like old Counter-Strike!</em></p>
-  </td>
-  <td width="50%">
-    <h3 align="center">👑 YouTube Premium Logo</h3>
-    <p align="center">
-      <a href="https://github.com/rainaku/Youtube-Premium-Logo-Free">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Youtube-Premium-Logo-Free&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899" alt="Youtube-Premium-Logo-Free"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
-    </p>
-    <p align="center"><em>Free Premium logo (aesthetic only 😉)</em></p>
-  </td>
-</tr>
-</table>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           FEATURED PROJECTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
----
+### ✨ &nbsp; Featured Projects
 
-<!-- Snake Animation -->
-<h2>
-  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="28">
-  <span> Contribution Snake</span>
-</h2>
+<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
-<!-- Connect Section -->
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
-  <span> Let's Connect</span>
-</h2>
-
-<div align="center">
-  
-<a href="https://rainaku.id.vn">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-rainaku.id.vn-8B5CF6?style=for-the-badge&logoColor=white"/>
+<!-- Project Cards -->
+<a href="https://github.com/rainaku/Scroll-V">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Scroll-V&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e" alt="Scroll-V"/>
 </a>
-<a href="https://www.facebook.com/rain.107/">
-  <img src="https://img.shields.io/badge/Facebook-rain.107-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="mailto:ra1naku@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ra1naku-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="https://github.com/rainaku/FreeMyRam">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=FreeMyRam&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e" alt="FreeMyRam"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-<!-- Spotify / Quote -->
-<div align="center">
-
-### 💭 Random Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Dev Quote"/>
-
-</div>
-
----
-
-<!-- Support Section -->
-<div align="center">
-
-### ☕ Support My Work
-
-<p>If you like my projects, consider buying me a coffee! ☕</p>
-
-<a href="https://www.buymeacoffee.com/rainaku">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+<a href="https://github.com/rainaku/YouTube-Video-Stretcher">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=YouTube-Video-Stretcher&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e" alt="YouTube-Video-Stretcher"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rainaku/Youtube-Premium-Logo-Free">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainaku&repo=Youtube-Premium-Logo-Free&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e" alt="Youtube-Premium-Logo-Free"/>
 </a>
 
-</div>
+<br><br>
 
----
+<!-- Horizontal Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- Footer -->
-<div align="center">
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=120&section=footer"/>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Made_with-💜-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/From-Vietnam_🇻🇳-EC4899?style=for-the-badge"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-**Thanks for visiting! Have a great day!** ✨
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=rainaku&style=flat-square&color=0d1117&label=Profile+Views" alt="Profile Views"/>
+
+<br><br>
+
+<!-- Quote -->
+<sub>
+
+*「 Glory to mankind. 」*
+
+</sub>
+
+<br><br>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=1&section=footer"/>
 
 </div>
